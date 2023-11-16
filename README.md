@@ -1,6 +1,6 @@
 # SAP Repository Template
 
-Default templates for SAP open source repositories, including LICENSE, .reuse/dep5, Code of Conduct, etc... All repositories on github.com/SAP will be created based on this template.
+Default templates for SAP open source repositories, including LICENSE, .reuse/dep5, Code of Conduct, etc... All repositories on github.com/SAP will be created based on this template. Since the Open Component Model is mainly developed in Golang, there is a Go specific File `.golangci.yaml` that can, but does not have to be removed after copy.
 
 ## To-Do
 
